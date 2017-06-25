@@ -15,3 +15,6 @@ Plataforma WEB desarrollada en Angular 4
 - HTML
 - SASS
 - ALERT MENSAJES
+
+
+Contacto: 999415041 kcifuentes89@gmail.com
